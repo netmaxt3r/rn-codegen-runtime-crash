@@ -2397,20 +2397,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-native/codegen@npm:0.74.84":
-  version: 0.74.84
-  resolution: "@react-native/codegen@npm:0.74.84"
+"@react-native/codegen@npm:0.75.0-nightly-20240429-b7de91666":
+  version: 0.75.0-nightly-20240429-b7de91666
+  resolution: "@react-native/codegen@npm:0.75.0-nightly-20240429-b7de91666"
   dependencies:
     "@babel/parser": ^7.20.0
     glob: ^7.1.1
-    hermes-parser: 0.19.1
+    hermes-parser: 0.20.1
     invariant: ^2.2.4
     jscodeshift: ^0.14.0
     mkdirp: ^0.5.1
     nullthrows: ^1.1.1
   peerDependencies:
     "@babel/preset-env": ^7.1.6
-  checksum: d44d2e2d833dd92012cb947e7d815f47892b7b612eed99a19fbf3a3c0cdebbcc72ef9eef3dd538f7603910275344b0a0bdfcf9864a0a913a5b6401b382d07166
+  checksum: 7bcd9511121774a2281610542986a3addc023ec7286e547c2d6fc6fb2a8ba2f0ead8c511b78b65eb5faccb4ffb7867ef2b8dc1ca9b0363aac3e29e11308e7371
   languageName: node
   linkType: hard
 
